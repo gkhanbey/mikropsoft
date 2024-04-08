@@ -22,7 +22,7 @@
 <h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,github,vscode,linux,debian,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=python,github,vscode,php,html,c#,unity" />
 </div>
 
 <hr/>
